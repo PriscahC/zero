@@ -1,0 +1,2 @@
+# zero
+EarthAI Hackathon
